@@ -22,7 +22,7 @@ SO THAT our own site is optimized for search engines.
 -It is done when the title element is concise and descriptive
 
 ### Notes
-Link to website:
+Link to website:  https://lindav2023.github.io/HomeworkFirst/
 
 Screenshots:
 ![image](https://github.com/LindaV2023/HomeworkFirst/assets/127782990/f0830d92-ff70-408e-ad74-3139f8889383)
