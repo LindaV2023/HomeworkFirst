@@ -7,6 +7,8 @@
 body {
     background-color: #d9dcd6;
 }
+
+/* Header description and attributes */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -39,15 +41,17 @@ header div ul li {
     margin-left: 25px;
 }
 
+/* Anchor tags attributes */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Paragraph attributes */
 p {
     font-size: 16px;
 }
-
+/* Background picture on homepage */
 .hero {
     height: 800px;
     width: 100%;
@@ -72,7 +76,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* Benefits description and attributes */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -135,7 +139,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Description and attributes of items on the left hand side of page */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -163,6 +167,8 @@ p {
     color: #ffffff;
 }
 
+
+/* Image height items on left hand side */
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -174,7 +180,7 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
-
+/* h2 description and attributes */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -189,7 +195,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Footer description and attributes */
 footer {
     padding: 30px;
     clear: both;
